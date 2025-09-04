@@ -5,62 +5,62 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Baby",
 
     // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    // You can use emojis! 🤍 🪽 🤍 🪽 🤍 🪽
+    pageTitle: "Happy 2 years ୨ৎ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['🤍', '🤍', '🤍', '🤍', '🤍'],  // Heart emojis
+        bears: ['🐻‍❄️', '🐻‍❄️']                       // Cute bear emojis
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "first of all, Anniversary kissies ?",                                    // First interaction
+            yesBtn: "YES !!!!",                                             // Text for "Yes" button
+            noBtn: "NYO !!!!",                                               // Text for "No" button
+            secretAnswer: "lets makeout :3 "           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "how much do yew love me ?!",                          // For the love meter
+            startText: "this much!!",                                   // Text before the percentage
+            nextBtn: "next ♡"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "will you be my forever and ever :3 ?! ", // The big question!
+            yesBtn: "YES !!",                                             // Text for "Yes" button
+            noBtn: "YESSSSS !!!!!"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "i love u TO DEATH !!! ",  // Shows when they go past 5000%
+        high: "FOREVER AND EVER!!!!!! ",              // Shows when they go past 1000%
+        normal: "i love u sosososo much"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "YIPPIEEEE ^___^ 𝜗𝜚",
+        message: "may we celebrate eternity together, happy 2 years baby!!!! ",
+        emojis: "🤍☁️🦢🪽🤍"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
+        backgroundStart: "#ffcccc",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#fadaed",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#f7c4e2",     // Button color (should stand out against the background)
+        buttonHover: "#fadaed",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
     },
 
