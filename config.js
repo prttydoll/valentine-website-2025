@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Baby",
+    valentineName: "baby",
 
     // The title that appears in the browser tab
     // You can use emojis! 🤍 🪽 🤍 🪽 🤍 🪽
@@ -23,9 +23,9 @@ const CONFIG = {
     questions: {
         first: {
             text: "first of all, Anniversary kissies ?",                                    // First interaction
-            yesBtn: "YES !!!!",                                             // Text for "Yes" button
+            yesBtn: "umm...",                                             // Text for "Yes" button
             noBtn: "NYO !!!!",                                               // Text for "No" button
-            secretAnswer: "lets makeout :3 "           // Secret hover message
+            secretAnswer: "YESSSSS lets makeout !!!!! :3 "           // Secret hover message
         },
         second: {
             text: "how much do yew love me ?!",                          // For the love meter
